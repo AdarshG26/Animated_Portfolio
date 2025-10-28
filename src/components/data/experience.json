@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "Summer Intern",
+    "organisation": "Banaras Locomotive Works (BLW)",
+    "startDate": "July, 2024",
+    "endDate": "August, 2024",
+    "location": "Varanasi, Uttar Pradesh",
+    "experiences": [
+      "Worked on SMS Gateway Project",
+      "Developed Frontend of SMS Gateway Project"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Software Developer Intern",
+    "organisation": "Elgoss",
+    "startDate": "February, 2025",
+    "endDate": "April, 2025",
+    "location": "Varanasi, Uttar Pradesh",
+    "experiences": [
+      "Worked on Visitor Data Storage App using Python",
+      "Developed backend using flask and integrated OCR"
+    ]
+  }
+]

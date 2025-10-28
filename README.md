@@ -1,0 +1,1 @@
+# Animated Portfolio made with React, Typed.js and AOS library
