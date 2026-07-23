@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "role": "Summer Intern",
-    "organisation": "Banaras Locomotive Works (BLW)",
-    "startDate": "July, 2024",
-    "endDate": "August, 2024",
-    "location": "Varanasi, Uttar Pradesh",
+    "role": "Process Analyst",
+    "organisation": "Provana Private Limited",
+    "startDate": "February, 2026",
+    "endDate": "April, 2024",
+    "location": "Noida, Uttar Pradesh",
     "experiences": [
-      "Worked on SMS Gateway Project",
-      "Developed Frontend of SMS Gateway Project"
+      "Analyzed and processed U.S. loan-related documents in line with established business procedures",
+      "Worked With CLS Software to verify customer and loan details, ensuring records were complete and error-free"
     ]
   },
   {
     "id": 2,
     "role": "Software Developer Intern",
     "organisation": "Elgoss",
-    "startDate": "February, 2025",
-    "endDate": "April, 2025",
+    "startDate": "August, 2025",
+    "endDate": "October, 2025",
     "location": "Varanasi, Uttar Pradesh",
     "experiences": [
       "Worked on Visitor Data Storage App using Python",

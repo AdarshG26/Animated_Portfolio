@@ -36,7 +36,27 @@
   },
   {
     "id": 8,
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "id": 9,
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "id": 10,
     "title": "Git",
     "imageSrc": "skills/git.png"
+  },
+  {
+    "id": 11,
+    "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "id": 12,
+    "title": "Power BI",
+    "imageSrc": "skills/power.png"
   }
 ]
